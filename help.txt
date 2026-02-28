@@ -1,0 +1,6 @@
+
+Lingering pause...blank line
+Soft hesitation...period + line break
+Suspension...colon
+Trailing thought...line break
+Breath...sentence split

@@ -1,1 +1,1 @@
-python main_piper.py res/J2/02_E3-Incantations.txt --out invisible_world/J2/5_J2_03.wav --delete-chunks
+python main_piper.py res/01_nmt.txt --out audio/01_nmt.wav --delete-chunks
